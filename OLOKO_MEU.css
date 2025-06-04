@@ -1,0 +1,10 @@
+h1{
+    color: rgb(228, 3, 3);
+}
+
+body{background-color: azure;
+}
+
+#primeiro {
+    flex-direction: center;
+}
